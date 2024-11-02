@@ -3,6 +3,7 @@
 First, Clone the project:
 
 ```bash
+git clone
 ```
 Second, run the command to install dependencies:
 
